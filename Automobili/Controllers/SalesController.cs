@@ -37,6 +37,7 @@ namespace Automobili.Controllers
         }
 
         // GET: Sales/Create
+        // GET: Sales/Create
         public ActionResult Create()
         {
             return View();

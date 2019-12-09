@@ -82,3 +82,4 @@ C:\Users\mario\source\repos\Automobili\Automobili\obj\Debug\Automobili.dll
 C:\Users\mario\source\repos\Automobili\Automobili\obj\Debug\Automobili.pdb
 C:\Users\mario\source\repos\Automobili\Automobili\obj\Debug\Automobili.Migrations.InitalModel.resources
 C:\Users\mario\source\repos\Automobili\Automobili\obj\Debug\Auti.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Automobili\Automobili\obj\Debug\Automobili.Migrations.AddedControllersAndViews.resources

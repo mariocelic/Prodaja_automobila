@@ -2,3 +2,4 @@
 ---
 - napravljeni modeli
 - napravljene migracije i kreirana baza
+- napravljeni controlleri i view

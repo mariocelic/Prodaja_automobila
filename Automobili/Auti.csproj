@@ -140,6 +140,10 @@
     <Compile Include="Migrations\201912071447121_InitalModel.designer.cs">
       <DependentUpon>201912071447121_InitalModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201912081411203_AddedControllersAndViews.cs" />
+    <Compile Include="Migrations\201912081411203_AddedControllersAndViews.designer.cs">
+      <DependentUpon>201912081411203_AddedControllersAndViews.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\CarSale\Buyer.cs" />
     <Compile Include="Models\CarSale\Car.cs" />
@@ -223,6 +227,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201912071447121_InitalModel.resx">
       <DependentUpon>201912071447121_InitalModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912081411203_AddedControllersAndViews.resx">
+      <DependentUpon>201912081411203_AddedControllersAndViews.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
